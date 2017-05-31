@@ -1,0 +1,6 @@
+c:\users\luke\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+c:\users\luke\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+c:\users\luke\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+c:\users\luke\documents\visual studio 2015\Projects\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb
